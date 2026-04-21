@@ -81,6 +81,9 @@ The model is evaluated using classification metrics such as:
 
 The project report shows that the Passive Aggressive Classifier performed strongly for this task, with reported accuracy around **94% to 96%**, making it effective for distinguishing fake and real news articles. :contentReference[oaicite:1]{index=1}
 
+## 📊 Project Presentation
+
+[Download PPT](docs/fake-news-detector.pptx)
 ## Project Structure
 
 ```bash
