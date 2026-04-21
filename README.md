@@ -83,7 +83,7 @@ The project report shows that the Passive Aggressive Classifier performed strong
 
 ## 📊 Project Presentation
 
-[Download PPT](docs/fake-news-detector.pptx)
+[Click here to view presentation](https://docs.google.com/presentation/d/1WJ-sETCYe7yhDS14D28o7Q5pWgnrod-J/edit?usp=share_link&ouid=105246914151919694672&rtpof=true&sd=true)
 ## Project Structure
 
 ```bash
