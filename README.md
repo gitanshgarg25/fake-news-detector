@@ -89,11 +89,10 @@ The project report shows that the Passive Aggressive Classifier performed strong
 ```bash
 Fake-News-Detection/
 │── newsdetection.ipynb
-│── app.py
+│── docs/fake-news-detector.pdf
 │── model.pkl
 │── vector.pkl
 │── requirements.txt
 │── README.md
 │── train.csv
 │── test.csv
-│── images/
